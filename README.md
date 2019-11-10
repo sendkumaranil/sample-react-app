@@ -14,10 +14,10 @@ You will also see any lint errors in the console.
 
 Examples:<br/>
 <p>Single html element render:</p>
-        ReactDOM.render(<h1>Welcome to Customer Portal!</h1>,document.getElementById('root'));
+        <pre>ReactDOM.render(<h1>Welcome to Customer Portal!</h1>,document.getElementById('root'));</pre>
 <p>Multiple html elements render wrap in single html element:</p>
-        ReactDOM.render(<div><h1>Anil Kumar</h1><ul><li>India</li><li>Bengaluru</li><li>Karnataka</li></ul></div>,document.getElementById('root2'));
+        <pre>ReactDOM.render(<div><h1>Anil Kumar</h1><ul><li>India</li><li>Bengaluru</li><li>Karnataka</li></ul></div>,document.getElementById('root2'));</pre>
 <p>Function Component Render:</p>
-        ReactDOM.render(<MyInfo />,document.getElementById('root3'));
+        <pre>ReactDOM.render(<MyInfo />,document.getElementById('root3'));</pre>
 <p>Parent/Child Function Component Render:</p>
-        ReactDOM.render(<OrderInfo />,document.getElementById('root4'));
+        <pre>ReactDOM.render(<OrderInfo />,document.getElementById('root4'));</pre>
