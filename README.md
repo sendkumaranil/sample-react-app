@@ -12,12 +12,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-Examples:<br/>
-<p>Single html element render:</p>
-        <pre>ReactDOM.render(<h1>Welcome to Customer Portal!</h1>,document.getElementById('root'));</pre>
-<p>Multiple html elements render wrap in single html element:</p>
-        <pre>ReactDOM.render(<div><h1>Anil Kumar</h1><ul><li>India</li><li>Bengaluru</li><li>Karnataka</li></ul></div>,document.getElementById('root2'));</pre>
-<p>Function Component Render:</p>
-        <pre>ReactDOM.render(<MyInfo />,document.getElementById('root3'));</pre>
-<p>Parent/Child Function Component Render:</p>
-        <pre>ReactDOM.render(<OrderInfo />,document.getElementById('root4'));</pre>
+<h4>These are the below examples, in order to run this example simply rename the index from index1/index2 and son on and try.</h4>
+### Example-1 : Basic examples
+    <pre>index1.js ( in order to run this example rename to index from index1 and un comment the div elements from index.html)</pre>
+### Example-2 : Parent/Child components examples
+    <pre>index2.js  </pre>
