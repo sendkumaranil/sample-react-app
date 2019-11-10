@@ -1,12 +1,19 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
+import React from 'react'
+import ReactDOM from 'react-dom'
+import OrderInfo from './components/OrderInfo'
 
-ReactDOM.render(<App />, document.getElementById('root'));
+function MyInfo() {
+    return(
+        <div>
+            <p>BIO:Anil Kumar is a Software Engineer and expertise to the Web Application Development</p>
+        </div>
+    )
+}
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+ReactDOM.render(<h1>Welcome to Customer Portal!</h1>,document.getElementById('root'));
+ReactDOM.render(<div><hr/><h3>Name: Anil Kumar</h3><ul><li>Bengaluru</li><li>Karnataka</li><li>India</li></ul></div>,
+    document.getElementById('root2'));
+ReactDOM.render(<MyInfo />,document.getElementById('root3'));
+ReactDOM.render(<OrderInfo />,document.getElementById('root4'));
+
+
