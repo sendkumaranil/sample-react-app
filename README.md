@@ -13,7 +13,7 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 <h4>These are the below examples, in order to run this example simply rename the index from index1/index2 and son on and try.</h4>
-### Example-1 : Basic examples
+### `Example-1 : Basic examples`
     <pre>index1.js ( in order to run this example rename to index from index1 and un comment the div elements from index.html)</pre>
-### Example-2 : Parent/Child components examples
+### `Example-2 : Parent/Child components examples`
     <pre>index2.js  </pre>
