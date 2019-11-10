@@ -1,6 +1,5 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
+import Subscribe from './components/Subscribe';
 
-import App from './App'
-
-ReactDOM.render(<App />,document.getElementById('root'));
+ReactDOM.render(<Subscribe />,document.getElementById('root'));
