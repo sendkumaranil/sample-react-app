@@ -22,3 +22,6 @@ You will also see any lint errors in the console.
 
 ### `Example-3 : components with input elements examples`
     <pre>index3.js  (in order to run this example rename index from index3 and try) related files are Subscribe.js</pre>
+
+### `Example-4 : Parent/Child components examples with style`
+    <pre>index4.js  (in order to run this example rename index from index4 and try) related files are HeaderWithStyle.js,FooterWithStyle.js,MainContentWithStyle.js,HeaderStyle.css,FooterStyle.css,MaintContentStyle.css,AppInfo.js</pre>
