@@ -26,5 +26,7 @@ You will also see any lint errors in the console.
 ### `Example-4 : Parent/Child components examples with style`
     index4.js  (in order to run this example rename index from index4 and try) related files are HeaderWithStyle.js,FooterWithStyle.js,MainContentWithStyle.js,HeaderStyle.css,FooterStyle.css,MaintContentStyle.css,AppInfo.js
 
-### `Example-5 : Inline style, style object and style module`
+```diff
+
+- ### `Example-5 : Inline style, style object and style module`
     index5.js  (in order to run this example rename index from index5 and try) related files are myinfo.module.css.js
