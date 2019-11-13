@@ -31,3 +31,6 @@ You will also see any lint errors in the console.
 
 ### `Example-6 : class component and JSX with javascript example`
     index6.js  (in order to run this example rename index from index6 and try) related files are MyClassComponent.js
+
+### `Example-7 : resuable component with props example`
+    index7.js  (in order to run this example rename index from index7 and try) related files are ContactCard.js,ContactCard.css, ContactApp.js, image1.png,image2.png,image3.jpg,image4.jpg
