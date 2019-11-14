@@ -34,3 +34,6 @@ You will also see any lint errors in the console.
 
 ### `Example-7 : resuable component with props example`
     index7.js  (in order to run this example rename index from index7 and try) related files are ContactCard.js,ContactCard.css, ContactApp.js, image1.png,image2.png,image3.jpg,image4.jpg
+
+### `Example-8 : resuable component with props with javascript object example`
+    index8.js  (in order to run this example rename index from index8 and try) related files are ContactCard2.js,ContactCard2.css, ContactApp2.js, image1.png,image2.png,image3.jpg,image4.jpg
