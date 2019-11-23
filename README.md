@@ -43,3 +43,6 @@ You will also see any lint errors in the console.
 
 ### `Example-10 : Sample Class Component Example using React.Component`
     index10.js  (in order to run this example rename index from index10 and try) related files are SampleClassCompApp.js.
+
+### `Example-11 : Sample Class Component Example created inside single index.js file with javascript code`
+    index11.js  (in order to run this example rename index from index11 and try).
