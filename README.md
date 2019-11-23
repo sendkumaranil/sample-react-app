@@ -40,3 +40,6 @@ You will also see any lint errors in the console.
 
 ### `Example-9 : resuable component with props and data comes in array iterate over map`
     index9.js  (in order to run this example rename index from index9 and try) related files are Product.js,Product.css, ProductApp.js,ProductApp.css,productData.js.
+
+### `Example-10 : Sample Class Component Example using React.Component`
+    index10.js  (in order to run this example rename index from index10 and try) related files are SampleClassCompApp.js.
