@@ -46,3 +46,9 @@ You will also see any lint errors in the console.
 
 ### `Example-11 : Sample Class Component Example created inside single index.js file with javascript code`
     index11.js  (in order to run this example rename index from index11 and try).
+
+### `Example-12 : Sample Class Component Example with state example`
+    index12.js  (in order to run this example rename index from index12 and try).
+
+### `Example-13 : Define function inside the class component and bind the function in constructor if function uses state.`
+    index13.js  (in order to run this example rename index from index13 and try).
