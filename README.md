@@ -55,3 +55,6 @@ You will also see any lint errors in the console.
 
 ### `Example-14 : Conditional Rendering`
     index14.js  (in order to run this example rename index from index14 and try) related file is Button.js.
+
+### `Example-15 : Fetch record from API and set the response to state and render data in dynamic elements.`
+    index15.js  (in order to run this example rename index from index15 and try) related file is render-image.css.
